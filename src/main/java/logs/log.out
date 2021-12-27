@@ -1,0 +1,48 @@
+2021-12-26 16:12:939 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:222 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:62 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (1456502a62d3f9b86f1cefaaaa848348)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:625 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:670 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:560 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (b5ced7473bb342e3818259c738200da2)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:860 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:595 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:484 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (3bd5c9c96a2aaad0e4440829f93ac5b3)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:237 INFO  ProductsResultPage :53 - Clicking on the product :Lenovo IdeaPad 3 Intel i5-1035G1 Quad Core 12GB RAM 256GB SSD 15.6-inch Touch Screen Laptop
+2021-12-26 16:12:782 INFO  ProductPage :27 - Selecting the quantity: 3
+2021-12-26 16:12:271 INFO  ProductPage :33 - Clicking on add to cart button: [[ChromeDriver: chrome on WINDOWS (3bd5c9c96a2aaad0e4440829f93ac5b3)] -> xpath: //input[@id='add-to-cart-button']]
+2021-12-26 16:12:83 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:899 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:655 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (e423d20be9b99206c4b58d777ac73eb2)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:110 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:322 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:334 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (fbd7a7507c7eb19f74d7de4119026370)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:481 INFO  ProductsResultPage :53 - Clicking on the product :Lenovo IdeaPad 3 Intel i5-1035G1 Quad Core 12GB RAM 256GB SSD 15.6-inch Touch Screen Laptop
+2021-12-26 16:12:753 INFO  ProductPage :27 - Selecting the quantity: 3
+2021-12-26 16:12:134 INFO  ProductPage :33 - Clicking on add to cart button: [[ChromeDriver: chrome on WINDOWS (fbd7a7507c7eb19f74d7de4119026370)] -> xpath: //input[@id='add-to-cart-button']]
+2021-12-26 16:12:955 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:401 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:399 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (dd8f4b3390b4ba32a2ee5c0633032318)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:830 INFO  ProductsResultPage :53 - Clicking on the product :Lenovo IdeaPad 3 Intel i5-1035G1 Quad Core 12GB RAM 256GB SSD 15.6-inch Touch Screen Laptop
+2021-12-26 16:12:110 INFO  ProductPage :27 - Selecting the quantity: 3
+2021-12-26 16:12:566 INFO  ProductPage :33 - Clicking on add to cart button: [[ChromeDriver: chrome on WINDOWS (dd8f4b3390b4ba32a2ee5c0633032318)] -> xpath: //input[@id='add-to-cart-button']]
+2021-12-26 16:12:437 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:96 INFO  HomePage :27 - Entering data in the search box :Mobile Phone<br>
+2021-12-26 16:12:329 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (f24c9a3715275c66df47b20b5307530e)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:847 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:281 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-26 16:12:557 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (636bb909d5ee7dd06fe437273ffd9e4b)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-26 16:12:170 INFO  ProductsResultPage :53 - Clicking on the product :Lenovo IdeaPad 3 Intel i5-1035G1 Quad Core 12GB RAM 256GB SSD 15.6-inch Touch Screen Laptop
+2021-12-26 16:12:475 INFO  ProductPage :27 - Selecting the quantity: 3
+2021-12-26 16:12:48 INFO  ProductPage :33 - Clicking on add to cart button: [[ChromeDriver: chrome on WINDOWS (636bb909d5ee7dd06fe437273ffd9e4b)] -> xpath: //input[@id='add-to-cart-button']]
+2021-12-26 16:12:413 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-26 16:12:832 INFO  HomePage :27 - Entering data in the search box :Mobile Phone<br>
+2021-12-26 16:12:474 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (a94066a4a3527739907220038ae72578)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-27 15:12:472 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 15:12:827 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-27 15:12:378 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (f3ad3ed7a03318c09151f2054f769ad8)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-27 15:12:761 INFO  ManageDriver :32 - Launching Chrome Browser
+2021-12-27 15:12:620 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-27 15:12:156 INFO  HomePage :32 - Clicking on the button :[[ChromeDriver: chrome on WINDOWS (5368b72fffab2a2fa88a0eda8c325057)] -> xpath: //input[@id='nav-search-submit-button']]<br>
+2021-12-27 15:12:512 INFO  ProductsResultPage :53 - Clicking on the product :HP 15-dw Laptop Intel Core i3-1115G4 8GB 256GB SSD 15.6 Full HD WLED Win 10
+2021-12-27 15:12:832 INFO  ProductPage :27 - Selecting the quantity: 3
+2021-12-27 15:12:295 INFO  ProductPage :33 - Clicking on add to cart button: [[ChromeDriver: chrome on WINDOWS (5368b72fffab2a2fa88a0eda8c325057)] -> xpath: //input[@id='add-to-cart-button']]
